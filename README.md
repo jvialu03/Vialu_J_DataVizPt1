@@ -2,7 +2,7 @@
 
 # Data Visualization: Analysis and Design
 
-This is the first part of the Data Visualization assignment. This build has the basic files and folders needed for the final project. The assets folder has a PSD file of the design mockup using black-box placeholders. This will also include my data analysis and what I intend to prove with the charts.
+This is the first part of the Data Visualization assignment. This build has the basic files and folders needed for the final project. The assets folder has a PSD file of the design mockup using black-box placeholders. This will also include my data analysis and the roadmap for the project.
 
 ### Getting Started
 Clone this repo to the location of your choice. Open the `PSD` file under the `assets` folder to see the design mockup.
