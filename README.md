@@ -10,7 +10,7 @@ Clone this repo to the location of your choice. Open the `PSD` file under the `a
 To see the thesis and the roadmap for this project, go to: [Olympic Data Viz Roadmap](https://docs.google.com/document/d/1PZfrNhpdUeJh-R_LF3Ufs6oFge0H9v4nmbSWyGey6NE/edit)
 
 ### Prerequisites
-Git, and editor and photoshop
+Git, an editor and photoshop
 
 ## Author
 - Jairus Vialu
